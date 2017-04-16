@@ -8,7 +8,7 @@
 * Gson: Super easy JSON parsing in java
 
 I didn't really get why you said to only parse the first page 
-(Why would there be multpile pages if you only wanted us to use one?)
-just incase I missinterpreted to question, I parsed all the pages also using a beautiful but probably slow recursive algorithm, and also showed for only on page.
+(Why would there be multpile pages if you only wanted us to use one?)\n
+Just incase I missinterpreted to question, I also parsed all the pages using a beautiful but probably slow recursive algorithm, and also showed for only on page.
 
 <img src = "shopifyScreenshotFall17.png" height = "600"/>
